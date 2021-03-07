@@ -55,6 +55,10 @@ a {
   margin-right: 10px;
 }
 
+.list {
+	list-style:none;
+}
+
 @media(max-width:768px) {
   * {
       font-size:14pt;
